@@ -1,4 +1,3 @@
-This project is a model of database, which collects various events.
-User can add or delete new wvents with different headings and dates. 
-Databese autoatically sorts events by dates anf if dates are equal by events in alphabet order.
-Progect consists of several files and has various classes and structures.
+This project is a model of database, where users can add, delete or change their events.
+Events is a date, a type of the event and a string describing the event. 
+Database sorts events by date. If dates are equal, events are sorted by strings in alphabetical order.
